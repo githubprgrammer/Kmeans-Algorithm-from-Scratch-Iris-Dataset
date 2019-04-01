@@ -1,4 +1,4 @@
-# Kmeans-Classifier-from-Scratch-Iris-Dataset
+# Kmeans-Algorithm-from-Scratch-Iris-Dataset
 Implementing the kmeans algorithm to identify flower species from the Iris data set.
 
 ## Iris Dataset
